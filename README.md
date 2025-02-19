@@ -17,7 +17,8 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 5. Run `ant clean` whenever you want to clean up the project (i.e., delete all generated files).
 
 #### How to run Basic Statistics from the terminal:
-
+change to readme file here for 520 hw
+additional change to file for hw
 1. After building the project (i.e., running `ant compile`), run: `java -cp bin BasicStats`. The application's GUI will show up.
 
 #### Program features:
